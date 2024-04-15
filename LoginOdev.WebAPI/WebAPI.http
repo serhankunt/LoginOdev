@@ -1,0 +1,6 @@
+@LoginOdev.WebAPI_HostAddress = http://localhost:5282
+
+GET {{LoginOdev.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
